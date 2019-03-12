@@ -16,6 +16,14 @@ Description field presents impedance at 100MHz, rated current at 85 degree, dc r
 |-|-|-|-|-|
 |F0402-0001|Murata|BLM15PX181SN1**D** (D for tape, B for bulk)|180Ω, 1.5A, 115mΩ|[view](datasheets/BLM15_SN.pdf)|
 
+# Crystals
+
+|Code|Vendor|Part Number|Description|Datasheet|
+|-|-|-|-|-|
+|XTAL3225-0001|Seiko-Epson|X1E0002510046|24MHz, 12p, 10ppm, (TSX-3225 series)|[view](datasheets/TSX-3225.pdf)|
+|XTAL2016-0001|Seiko-Epson|Q22FA12800078|37.4MHz, 9p, 10ppm, (FA-128 series)|[view](datasheets/FA-128.pdf)|
+
+
 # Diodes, ESDs, Transistors, MOSFETs and LEDs
 
 |Code|Vendor|Part Number|Description|Datasheet|
@@ -32,6 +40,48 @@ Description field presents color, forward current, min/typical/max forward volta
 |Code|Vendor|Part Number|Description|Datasheet|
 |-|-|-|-|-|
 |LED0402-0001|NationStar|FC-F1005UGK-520M5|emerald (bluish green), 20mA, 2.6V/2.8V/3.6V|[view (Chinese)](datasheets/FC-F1005UGK-520M5.pdf)|
+
+# Power ICs
+
+|Code|Vendor|Part Number|Description|Datasheet|
+|-|-|-|-|-|
+
+# Digital ICs
+
+|Code|Vendor|Part Number|Description|Datasheet|
+|-|-|-|-|-|
+|IC-CPU-0001|Rockchip|RK3308|TFBGA355, quad-core cortex A35 arm processor|[view](datasheets/RK3308-V1.4.pdf)|
+|IC-DDR3-0001|Hynix|
+|IC-EMMC-0001|Hynix|
+|IC-CRYPTO-0001|Microchip|ATECC608A-MAHDA|UDFN8, crypto authentication, i2c||
+
+
+# Wireless Modules
+
+|Code|Vendor|Part Number|Description|Datasheet|
+|-|-|-|-|-|
+|IC-WIRELESS-0001|Ampak|AP6255|2.4G/5G wifi + bluetooth 4.1 combo||
+
+
+# Chip Antennas
+
+|Code|Vendor|Part Number|Description|Datasheet|
+|-|-|-|-|-|
+|ANT-0001|Taiyo Yuden|AH104N2450D1-T|2.4G/5G dual band chip antenna|
+
+
+# Switches
+
+|Code|Vendor|Part Number|Description|Datasheet|
+|-|-|-|-|-|
+|SW-0001|Alps|SKSCLCE010|side-push tactic switch, smd, no boss||
+
+
+# Connectors
+
+|Code|Vendor|Part Number|Description|Datasheet|
+|-|-|-|-|-|
+|CONN-USB-0001|molex|105164-0001|micro usb receptable, top mount, smd||
 
 
 
