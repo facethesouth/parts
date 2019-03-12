@@ -60,28 +60,26 @@ Description field presents color, forward current, min/typical/max forward volta
 
 |Code|Vendor|Part Number|Description|Datasheet|
 |-|-|-|-|-|
-|IC-WIRELESS-0001|Ampak|AP6255|2.4G/5G wifi + bluetooth 4.1 combo||
+|IC-WIRELESS-0001|Ampak|AP6255|2.4G/5G wifi + bluetooth 4.1 combo|[view](datasheets/AP6255-V1.1.pdf)|
 
 
 # Chip Antennas
 
 |Code|Vendor|Part Number|Description|Datasheet|
 |-|-|-|-|-|
-|ANT-0001|Taiyo Yuden|AH104N2450D1-T|2.4G/5G dual band chip antenna|
-
+|ANT-0001|Taiyo Yuden|AH104N2450D1-T|2.4G/5G dual band chip antenna|[link](https://ds.yuden.co.jp/TYCOMPAS/or/detail?pn=AH104N2450D1-T)|
 
 # Switches
 
 |Code|Vendor|Part Number|Description|Datasheet|
 |-|-|-|-|-|
-|SW-0001|Alps|SKSCLCE010|side-push tactic switch, smd, no boss||
-
+|SW-0001|Alps|SKSCLCE010|side-push tactic switch, 1.6N, smd, no boss|[link](https://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKSC/SKSCLCE010.html)|
 
 # Connectors
 
 |Code|Vendor|Part Number|Description|Datasheet|
 |-|-|-|-|-|
-|CONN-USB-0001|molex|105164-0001|micro usb receptable, top mount, smd||
+|CONN-USB-0001|molex|105164-0001|micro usb receptable, top mount, smd|[link](https://www.molex.com/molex/products/datasheet.jsp?part=active/1051640001_IO_CONNECTORS.xml)|
 
 
 
