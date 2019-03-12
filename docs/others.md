@@ -54,10 +54,10 @@ Description field presents color, forward current, min/typical/max forward volta
 |Q363-0001|LRC|LMBT3904DW1T1G|dual general purpose NPN transistors|[view](datasheets/LMBT3904DW1T1G.pdf)|
 
 ## MOSFETs
+
 |Code|Vendor|Part Number|Description|Datasheet|
 |-|-|-|-|-|
 |Q883-0001|LRC|LN235N3T5G|1.5V V<sub>gs</sub> N-channle mosfet|[view](datasheets/LN235N3T5G.pdf)|
-
 
 
 ## Power ICs
