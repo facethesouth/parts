@@ -1,3 +1,11 @@
+This document is used for manufacturing and inventory part management. 
+
+The pcb assembly factory (smd) requires all parts are labelled with a customer-defined, easy-to-use part code, instead the part number printed on the tap, bulk, tray, or part. And this document describes the rules assigning such code to a part.
+
+本文档用于生产和库存物料管理。
+
+贴片厂要求客户为每包装物料提供一个客户自定义的物料编码，用标签贴在物料包装上，便于生产时识别。本文档定义冲南使用的物料的编码规则。
+
 # 冲南物料编码
 
 冲南物料编码采用简化规则，仅阻容器件编码体现器件值，其他器件仅体现分类并严控设计中使用的器件种类。
