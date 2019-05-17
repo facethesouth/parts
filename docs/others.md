@@ -103,6 +103,7 @@ Description field presents color, forward current, min/typical/max forward volta
 |Code|Vendor|Part Number|Description|Datasheet|
 |-|-|-|-|-|
 |CONN-USB-0001|molex|105164-0001|micro usb receptable, top mount, smd|[link](https://www.molex.com/molex/products/datasheet.jsp?part=active/1051640001_IO_CONNECTORS.xml)|
+|CONN-USB-0002|samtec|USB-AM-S-F-W-TH|USB Type A plug, white, through hole|[view](datasheets/usb-am-s-x-x-th-x-mkt.pdf)|
 
 
 
