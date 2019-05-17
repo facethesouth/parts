@@ -73,8 +73,8 @@ Description field presents color, forward current, min/typical/max forward volta
 |Code|Vendor|Part Number|Description|Datasheet|
 |-|-|-|-|-|
 |IC-CPU-0001|Rockchip|RK3308|TFBGA355, quad-core cortex A35 arm processor|[view](datasheets/RK3308-V1.4.pdf)|
-|IC-DDR3-0001|Hynix|
-|IC-EMMC-0001|Hynix|
+|IC-DDR3-0001|Hynix|H5TQ4G63EFR-RDC|FBGA96, 256M x 16, DDR3-1866|[view](datasheets/H5TQ4G8(6)3EFR.pdf)|
+|IC-EMMC8G-0001|BIWIN|BWCTASC11G08G|FBGA153, emmc 5.0, 8GB|[view](datasheets/BWCTASC11G08G.pdf)|
 |IC-CRYPTO-0001|Microchip|ATECC608A-MAHDA|UDFN8, crypto authentication, i2c|[view](ATECC608A.pdf)|
 
 ## Wireless Modules
@@ -89,6 +89,7 @@ Description field presents color, forward current, min/typical/max forward volta
 |Code|Vendor|Part Number|Description|Datasheet|
 |-|-|-|-|-|
 |ANT-0001|Taiyo Yuden|AH104N2450D1-T|2.4G/5G dual band chip antenna|[link](https://ds.yuden.co.jp/TYCOMPAS/or/detail?pn=AH104N2450D1-T)|
+|ANT-0002|Signal Plus|LA52H2450_5500_A28|2.4G/5G dual band chip antenna||
 
 ## Switches
 
