@@ -23,6 +23,7 @@ Description field presents impedance at 100MHz, rated current at 85 degree, dc r
 |-|-|-|-|-|
 |XTAL3225-0001|Seiko-Epson|X1E0002510046|24MHz, 12p, 10ppm, (TSX-3225 series)|[view](datasheets/TSX-3225.pdf)|
 |XTAL2016-0001|Seiko-Epson|Q22FA12800078|37.4MHz, 9p, 10ppm, (FA-128 series)|[view](datasheets/FA-128.pdf)|
+|XTAL2016-0002|Seiko-Epson|Q22FA12800489|24MHz, 12p, 10ppm, (FA-128 series)|[view](datasheets/FA-128.pdf)|
 
 
 ## Diodes
@@ -89,7 +90,7 @@ Description field presents color, forward current, min/typical/max forward volta
 |Code|Vendor|Part Number|Description|Datasheet|
 |-|-|-|-|-|
 |ANT-0001|Taiyo Yuden|AH104N2450D1-T|2.4G/5G dual band chip antenna|[link](https://ds.yuden.co.jp/TYCOMPAS/or/detail?pn=AH104N2450D1-T)|
-|ANT-0002|Signal Plus|LA52H2450_5500_A28|2.4G/5G dual band chip antenna||
+|ANT-0002|Signal Plus|LA52H2450/5500-A28|2.4G/5G dual band chip antenna|[view (Chinese)](datasheets/LA52H24505500-A28.pdf)|
 
 ## Switches
 
